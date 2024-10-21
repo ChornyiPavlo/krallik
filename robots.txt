@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow:
+
+
+Sitemap: http://mostbet.name.com.ua/sitemap.xml
+Host: mostbet.name.com.ua
